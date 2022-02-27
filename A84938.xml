@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>York, the 24th. and 25th. of the 4th. month, 1696</title>
+            <author>Yearly Meeting of Women Friends</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1696</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84938</idno>
+            <idno type="STC">Wing F2242A</idno>
+            <idno type="STC">ESTC R177207</idno>
+            <idno type="EEBO-CITATION">45790731</idno>
+            <idno type="OCLC">ocm 45790731</idno>
+            <idno type="VID">172633</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84938)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172633)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2641:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>York, the 24th. and 25th. of the 4th. month, 1696</title>
+                  <author>Yearly Meeting of Women Friends</author>
+                  <author>Breckon, Margaret.</author>
+                  <author>Winn, Katharine.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1696]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>First line begins: "We being met together at this our yearly meeting ..."</note>
+                  <note>Signed: Katharine Winn ... [and 7 others].</note>
+                  <note>"Dear sisters" (p. 6-8) signed: Margaret Breckon.</note>
+                  <note>Place of publication suggested by Wing.</note>
+                  <note>Reproduction of original in: Friends' Library (London, England).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quaker women --  England --  Congresses --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:172633:1" rendition="simple:additions"/>
+            <opener>
+               <dateline>York, <date>the 24th. and 25th. of the 4th. Month, 1696</date>
+               </dateline>
+               <lb/>
+               <salute>Dear Friends?</salute>
+            </opener>
+            <p>
+               <hi>WEe being met together at this our Yearly Meeting, to wait upon the Lord, to feel his Ancient Power, to fill our hearts and contrite our Spir<g ref="char:EOLhyphen"/>its and comfort us together; we have renewed cauſe to ſay he is the ſame God that ever he was yeſterday to day and will be the ſame for ever, unto all thoſe that believe in him and put their truſt in him.</hi>
+            </p>
+            <p>
+               <hi>And Dear Friends, in the ſence of the ſame Love wherewith we have been ſweetly comforted together in this our Meeting. We do ſalute you all, and give you Ac<g ref="char:EOLhyphen"/>count in this our County how things hath been with us, for bleſſed be the name of our God he is with us in all our un<g ref="char:EOLhyphen"/>dertakings, and cauſes his Work to proſper both here and elſewhere, for we have had ſeveral Teſtimonies in Writing from the ſeveral Monthly Meetings of the care and diligence of our Women friends in their particular Meetings in things relating to Truths Proſperity. And Gods living <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>owerful Preſence, hath abundantly appeared in this our Meeting, and many living Teſtimonies have been born amongst us bleſſed be the Name of the Lord for everand evermore.</hi>
+            </p>
+            <p>
+               <hi>And this ſhort Epiſtle, we have given forth for the encourageing of all, and alſo to warn any whom it may concern to be faithful in this their Day. And now,</hi>
+            </p>
+            <pb n="2" facs="tcp:172633:2"/>
+            <p> DEar Friends we being under a weighty conſideration of the ten<g ref="char:EOLhyphen"/>der dealings, and many mercyes of the Lord, and what he hath been to Us, and done for Us, in gathering Us out of the World, yea out of <hi>Babylons</hi> confuſion, and by the Revealing of his Heavenly pow<g ref="char:EOLhyphen"/>er, hath made a little Remnant willing to bear teſtimony againſt the evil of this World, its vain Cuſtoms fooliſh Faſhions and Traditions; for which Teſtimonye ſome have ſuffered great abuſes, for Teſtifiing againſt Obſerving Maſs times, Feaſt days, or any other vain Paſt-times, therefore let none profeſſing the ſame truth think theſe things light, or matters indifferent which <hi>others purchaſed at ſo dear a rate;</hi> therefore ſee that truths Teſtimony be born up in every particular Meeting, <hi>for by the ſame power</hi> hath many been made willing to loſe the friendſhip of the World, the favour of Relations and acquaintance for the denying of extravagent feaſtings in Marriages, Births and Burials; and though many of our Antient and Honourable Women be removed and gon to their reſt, <hi>yet ſome here is yet in being</hi> bleſt be the Lord, who bear a true Record of the good effect this Teſtimony had amongſt the ſober Peo-ple of the Neighbour-hood, where it was faithfully born up, there<g ref="char:EOLhyphen"/>fore let none profeſſing the ſame truth vary from it, but in the unity of the one Spirit, ſee that all be done decently and in good Order, to the honour of our God, who is a God of Order, and not of Conſu<g ref="char:EOLhyphen"/>ſion: Here hath divers Teſtimonies been given from this Meeting wherein we have hinted at many things, and particulared ſome, as con<g ref="char:EOLhyphen"/>ſerning Apparill, we could be glad our Teſtimonies were generally Obſerved, and the Judgment of truth ſubmited to, and theſe things put in practiſe in every particular Meeting, for it is the doer that is ac<g ref="char:EOLhyphen"/>cepted, a few Lines may ſoon be writ, and a Teſtimony ſoon delivered, but the Work is weighty, and requireth great Care and Diligence, here is alſo a warning in our Hearts from the Lord, unto you who are Mo<g ref="char:EOLhyphen"/>thers of Children, that you be good examples in your Families, in your Words, Actions and Apparrell, and in all other things both to your Servants and Children, and keep a watchfull eye over them, and take a narrow inſpection into their ways and inclinations, <hi>And Cruſh every appearance of Folly in them in the bud,</hi> while they are young and little, before they grow high and ſtuborn, and ſtill keep your Authority in the truth, and rule over the unſubjected nature in them; But if you loſe your authority they will rule over you, and then the juſt will be O<g ref="char:EOLhyphen"/>preſſed
+<pb n="3" facs="tcp:172633:2"/>and they will act to truths diſhonour, their own ruin, and you griefe, therefore be ye warned to ſee to the diſcharge of your Duty in this behalf, and do not connive at any Looſe Wanton behaviour in them but reſtrain them. <hi>Remember old</hi> Elys <hi>fall, and conſider the Daughters of</hi> Sion <hi>who walked with ſtretched out necks, and wanton eyes, and read</hi> Iſaiah <hi>the third, the Judgments threatned againſt them:</hi> And ſurely the Lord is the ſame this day, he hath no more favour for the Proud and Rebellious, nor friendſhip with the workers of iniquitie, though he hath been ſlow to wrath, and of great mercy and long hovered over us, waiting to be gracious yet he will ariſe as a Man of War, and thoſe that will not that he ſhould Reign over them, they are his Enemies he will ſlay them, but well will it be with thoſe that live in ſubjection to him and under his Government, he will be ten<g ref="char:EOLhyphen"/>der over them as the Apple of his own Eye, and preſerve them in the hollow of his hand until his Indignation be over; <hi>But be you warned you proud and wanton careleſs ones though Profeſſors of truth</hi> who yet have your Coverſations in the World, and your Companions of the Spirit of it. Many Warnings and Invitations you have had, but now the Day comes on apace, which long hath been threatned, that will be as a conſuming Fire wherein the Lord will avenge himſelfe of his adverſaries, and all the Proud, and all that work wickedneſs will be as Stubble, for tho he will gather his Wheat into his Garner, the Chaffe, he will burn with unqueanchable fire.</p>
+            <p>And now you dear hearts who are young and tender, ſpringing from the true root, who by the Heavenly Power have been made willing to deny your ſelves and take up your Croſs daily and follow the leadings of truth, tho through many trials and deep exerciſes, you are the living branches of the true Vine which drinks in the Heavenly dew, upon whom the pleaſant ſhowers fall. <hi>O you are near and dear to us, we are comforted in you; you are our Joy in the Lord.</hi> Oh, the flowing Streames of our Fathers Love, which reaches from one to another, which many waters cannot quench, nor diſtance of Miles ſeperate, for though abſent in Body, yet preſent in Spirit, and can ſim<g ref="char:EOLhyphen"/>pathyze together, and be a comfort one to another, Living Praiſe to our God for ever.</p>
+            <pb n="4" facs="tcp:172633:3"/>
+            <p> Now Friends here is many of our Antient and Honourable Wo<g ref="char:EOLhyphen"/>men removed off the Stage of this World and gone to their reſt, yet their Memorial is comfortable to us, and their travel is often before us, and ſome of us but weakly and not likely here to continue long, there<g ref="char:EOLhyphen"/>fore we deſire you may let no Place be empty, but take your Orders, and keep your Ranks, and put on the Breaſtplate of righteouſneſs the Helm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t of Salvation, and take the Sword of the Spirit, and make war in righteouſneſs againſt the Uncircumciſed Phyliftian Na<g ref="char:EOLhyphen"/>ture, lye waſte and untterly conſume all <hi>Babilons</hi> trumpery, caſt our her goodly Garments and Wedge of Gold, and let <hi>Achan</hi> be de<g ref="char:EOLhyphen"/>ſtroyed, that <hi>Iſraels</hi> Camp may proſper, and tho <hi>Corah, Dathan</hi> and <hi>Abivams</hi> Spirit charge you for taking to much upon you, and as the Scoffers of the Antient Jewes may ſcoffe you matter them not, but carry on your work and keep your Weapon in your hand. And you that have Publick Teſtimonies be careful in all your Travels, as well of the good order of truth <hi>and Church Diſcipline</hi> as diſcharge of your Teſtimonies where you may, come or others have need of your affiſt<g ref="char:EOLhyphen"/>ance; And be not to familiar with any Spirits, but try the Spirit whe<g ref="char:EOLhyphen"/>ther they be of God or nay, and beat down the croſs, proud unſub<g ref="char:EOLhyphen"/>jected Spirit; <hi>But thoſe that are weak in the Faith receive you;</hi> For it ever was, and yet is our great care, the weak may be ſtrengthen, the Feeble confirmed, and the mourners in Sion comforted, and help to lift up the Heads and Hands of thoſe that are ready to hang down, and invite the Daughters of Sion to ariſe, and ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ake themſelves from the duſt of the Earth, and put on their beautifull Garments, that therein they may glorify God.</p>
+            <p>And Friends, you that are in your places of abode in your Service for the Lord, be diligent in keeping of your Womens Meetings, and faithfull in the Lords work, having nothing in your Eye but his ho<g ref="char:EOLhyphen"/>novr, the proſperity of his truth, and well being of his people; But ſtill keep under all that which will not be ſubject to Truth, and though you may meet with reflections and ſecret ſmiteings, yet the Lord will be with you, for no Weapon formed againſt <hi>Sion</hi> can proſper, no Inchant<g ref="char:EOLhyphen"/>ment againſt <hi>Jacob</hi> nor Divination againſt <hi>Iſraell,</hi> therefore be incour<g ref="char:EOLhyphen"/>aged and encaurage one another as co workers, and fellow helpers, and as formerly we have ſaid according to your Meaſures, as <hi>Deborah,</hi> will<g ref="char:EOLhyphen"/>ingly be concern'd in the Government of <hi>Iſraell,</hi> and as <hi>Dorcaſs</hi> make<g ref="char:EOLunhyphen"/>ing
+<pb n="5" facs="tcp:172633:3"/>proviſion for the Widdows and Fatherleſs; That joy and gladneſs may be heard in <hi>Iſraell's</hi> Camp, and <hi>Jacob</hi> may be ſafe in his Tent.</p>
+            <p>For Friends, this is the very end of our Travell and Labour of Love that we all might be gathered to our Antient Rock and refuge and ſure hiding place, before this trying day come, which now approacheth, and times of callamity which ſeems to be near; So with dear Love to you deſiring the continuance of your care in coming up to the next Yearly Meeting, if the Lord give us an opertunity: And that care be taken that theſe Teſtimonies be Read in every of your Womens Meetings; or where Friends may ſee ſervice for them: So we remain your Lov<g ref="char:EOLhyphen"/>ing Siſters.</p>
+            <closer>
+               <signed>Signed on the behalf of our Womens Meeting. BY
+<list>
+                     <item>Katharine Winn.</item>
+                     <item>Elizabeth Beckwith.</item>
+                     <item>Judith Bouldby.</item>
+                     <item>Mary Froſt.</item>
+                     <item>Deborah Winn.</item>
+                     <item>Sarah Engliſh.</item>
+                     <item>Sarah Elam.</item>
+                     <item>Mary VVhite.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:172633:4"/>
+            <opener>
+               <salute>Dear Siſters,</salute>
+            </opener>
+            <p>YO<g ref="char:V">Ʋ</g> that are as Mothers in <hi>Iſrael,</hi> it is unto you my Love and Life is drawn forth at this time, deſiring to caſt my Mite with you into the Treaſury of God, and it is the deſire of my heart, that both you and I, and all whom God has call'd to be as Mothers in <hi>Iſrael,</hi> may be found both in Example and Doctrine, following the good ad<g ref="char:EOLhyphen"/>vice of the holy Apoſtle, who ſaid, <hi>let the Elder Women exhort the Younger to be ſober,</hi> to be chaſt, <hi>to be lovers of their own Huſbands, lovers of their own Children, keepers at Home, not Gadders abroad.</hi>
+            </p>
+            <p>And now dear Siſters, here is much in theſe things, and they deſerve a due conſideration, by us all, to ſee they be put in practiſe by us all in our reſpective places. <hi>Firſt,</hi> by Example, and then by Doctrine, to thoſe we have the Overſight of, as the Flock our Fahers fold, that they with us, and we with them may all be found performing the things, and anſwering the end the Lord created us for, to ſerve and glorify him in our Age and Days, <hi>by a Godly Life, and holy Converſation in all we put our Hands unto,</hi> that our Light which the God of <hi>Iſrael</hi> hath been pleaſed to Engliſnte us with, may ſo ſhine that others may ſee our good Works and Glorify our Father which is in Heaven, who alone is the Author of every good thought, Word and Work, and is worthy of the Honour of the ſame; For without him we can do nothing that is good or that will bring honour to him, and therefore we are ingaged to Exhort one another, and that daily to have their Eye upon the Lord, for his Divine aſſiſt<g ref="char:EOLhyphen"/>ance to help us in our Reſpective Places to performe our ſervice to him and to our Husbands and Children; to be Lovers of our own Husbands in that Love the Saints Felloweſhip was in, have<g ref="char:EOLhyphen"/>ing our Chaſt Converſation coupled with fear, <hi>honuring and
+<pb n="7" facs="tcp:172633:4"/>obaying them in the Lord:</hi> This will make us a comfort, and true help meet to them which is the and the Lord made Woman for, to ſerve him, and be a help-meet to her Husband, and a Nurſing Mother to her Children.</p>
+            <p>And now dear Siſters, I cannot but exhort you as One who through the Lords mercy hath been the Mother of many Chil<g ref="char:EOLhyphen"/>dren, and hath troden the path; to be very carefull and watch<g ref="char:EOLhyphen"/>full over your Children while they are under your Tuition, even from their learning to ſpeak, to their Youth upward, for we may remember it was the advice of <hi>Solomon, Train up a Child in the way thou would have him to go when he is young, and he will not depart from it when he is old:</hi> For I can tru<g ref="char:EOLhyphen"/>ly ſay the Lord layed a Concern upon me when I was but Young in years to Watch over my Childrens Words, even when they were but Learning to Speak, <hi>that they might be taught truths Language,</hi> and as they grow up they may be brought to Meetings amongſt the Lords People, and kept in the form of truth, out of the Vain Cuſtoms and faſhions, and bleſſed be the Name of <hi>Iſraels</hi> God who through his great Love and Mercy hath made me to my great Comfort, reap in Meaſure the fruits of my Labour, and hath begotten Faith in me, of reaping more, as they and I are preſerved Faithfull to the end; For 'its the end that Crowns all, <hi>It is not Runing well for a time,</hi> but continuing in well doing to the end of Time, that gives us an acceptance with the Lord.</p>
+            <p>So Dear Friends, you that are Young and are Mothers of Children, the deſire of my heart is, that you may ſhew forth your Love to your Children, by being watehfull over them, that they get not into thoſe things which you and your Antient Friends have known the Terrors of the Lord for, that none be ſound building that up in their Children which the Lord hath pulled down by his Righteous Judgments in themſelves; for the good Apoſtle ſaid, <hi>If I build again the things which I deſtroyed, I
+<pb n="8" facs="tcp:172633:5"/>make my ſelfe a Tranſgreſſor.</hi> So dear Friends, I dearly in<g ref="char:EOLhyphen"/>treat you in the yearning bowels of my Fathers Love to you, and your Children, deſiring that you may be carefull over your Children, in keeping them from Pride, and thoſe things which doth not become Women proffeſſing Godleneſs: So will they be made a Comfort and a Bleſſing to you, but if you be careleſs, and give them their Liberty to ſpeaks the Worlds Language, and get into their Faſhions and Cuſtoms, (as too many of the Libertine Spirits do, to the grief of the <g ref="char:V">Ʋ</g>pright in heart,) then they will become your Sorrow, and you will not be clear of their Blood: So to him that is the Wonderfull Councellour, do I deſire to re<g ref="char:EOLhyphen"/>commend you, with the keeping of my own Soul, and remain your Friend and Siſter in the Truth, and a Traveler for <hi>Sions</hi> Proſperity.</p>
+            <closer>
+               <signed>In my Meaſure <hi>Margaret Breckon.</hi>
+               </signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
